@@ -56,7 +56,7 @@ nav li:first-child{
     height: 500px;
     position: absolute;
     top: 400px;
-    right: 300px;
+    left: 0px;
     bottom: 0;
 }
 .quodes{
